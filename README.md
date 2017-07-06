@@ -1,7 +1,6 @@
 ![Slack List Brazil](res/logo.jpg)
 
 > Curadoria de Slacks no Brasil para você participar.<br>
-> http://jfnj.me/slacks
 
 ## Desenvolvimento
 Badge | Link | Participar
