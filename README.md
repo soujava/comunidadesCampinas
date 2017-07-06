@@ -4,6 +4,9 @@
 > http://jfnj.me/slacks
 
 ## Desenvolvimento
+Badge | Link | Participar
+----- | ---- | ----
+![Participantes](https://javadevbr.herokuapp.com/badge.svg) | [JavaDevBR (Comunidade brasileira de Java no Slack)](http://javadevbr.slack.com) | [Participar](https://javadevbr.herokuapp.com/)
 
 ### Front-end
 
