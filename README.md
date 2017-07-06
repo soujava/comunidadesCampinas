@@ -40,23 +40,23 @@ Badge | Link | Participar
 ### CMS 
 Badge | Link | Participar
 ----- | ---- | ----
-![Participantes](https://magentobr.herokuapp.com/badge.svg) | [Magento Br](http://magentobr.slack.com/) | [Participar](https://magentobr.herokuapp.com/)
-- | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/)
+![Participantes](https://magentobr.herokuapp.com/badge.svg) | [Magento Br](http://magentobr.slack.com/) | [Participar](https://magentobr.herokuapp.com/) |
+![--](--) | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/) |
 
 ### Organizações
 
 Badge | Link | Participar
 ----- | ---- | ----
-- | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/) | [Participar](http://a11y-brazil.herokuapp.com/)
-![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
-- | Dev IO Fortaleza | [Participar](http://deviofor.github.io/)
+- | [--](--) | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/) | [Participar](http://a11y-brazil.herokuapp.com/) |
+![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/) |
+- | Dev IO Fortaleza | [Participar](http://deviofor.github.io/) |
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)|
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)|
 - | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://devparana.herokuapp.com/)|
 - | [Dev RJ](https://devrj.slack.com/) | [Participar](https://devrj.slack.com/)|
 ![Participantes](http://docker-br.herokuapp.com/badge.svg) | Docker-BR | [Participar](http://docker-br.herokuapp.com/)|
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
-![Participantes](https://frontendcampinas.herokuapp.com/badge.svg) | [FrontEnd Campinas](https://frontendcampinas.slack.com) | [Participar](https://frontendcampinas.herokuapp.com/)
+![Participantes](https://frontendcampinas.herokuapp.com/badge.svg) | [FrontEnd Campinas](https://frontendcampinas.slack.com) | [Participar](https://frontendcampinas.herokuapp.com/) |
 ![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.herokuapp.com/)|
 [![Slack Status](https://slackfrontabc.herokuapp.com/badge.svg)](https://slackfrontabc.herokuapp.com "Grupo Front ABC") | [Grupo Front ABC](https://github.com/front-abc "Grupo Front ABC") | [Participar](https://slackfrontabc.herokuapp.com)|
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
