@@ -1,6 +1,6 @@
-![Slack List Brazil](res/logo.jpg)
+![Lista de Comunidades TI de Campinas](res/logoCampinas.jpg)
 
-> Curadoria de Slacks no Brasil para você participar.<br>
+> Curadoria de comunidades de TI em Campinas para você participar.<br>
 
 ## Desenvolvimento
 Badge | Link | Participar
