@@ -2,10 +2,12 @@
 
 > Curadoria de comunidades de TI em Campinas para você participar.<br>
 
-## Desenvolvimento
+### Desenvolvimento de Software
+
 Badge | Link | Participar
 ----- | ---- | ----
-![Participantes](https://javadevbr.herokuapp.com/badge.svg) | [JavaDevBR - Comunidade brasileira de Java no Slack](http://javadevbr.slack.com/) | [Participar](https://javadevbr.herokuapp.com/) |
+![Participantes](https://javadevbr.herokuapp.com/badge.svg) | [SouJava Campinas JUG](http://meetup.com/SouJavaCampinas/) | [Participar](https://facebook.com/CampinasJUG/) 
+
 
 ### Front-end
 
@@ -26,6 +28,7 @@ Badge | Link | Participar
 ----- | ---- | ----
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | [Android Dev BR](http://www.androiddevbr.org) | [Participar](http://slack.androiddevbr.org)
 
+
 ### CMS 
 Badge | Link | Participar
 ----- | ---- | ----
@@ -35,11 +38,9 @@ Badge | Link | Participar
 
 Badge | Link | Participar
 ----- | ---- | ----
-![Participantes](http://infrabrasil.herokuapp.com/badge.svg) | [Infra Brasil](http://infrabrasil.slack.com/) | [Participar](http://infrabrasil.herokuapp.com/)
 
 
+### Contribua com esta lista!
 
-### Contribua
-
-Faça um fork e mande uma PR para aumentar essa lista.
-:beers:
+Faça um fork e mande uma PullRequest  para aumentar essa lista.
+:beers: :beers: :beers:
