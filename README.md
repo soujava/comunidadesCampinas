@@ -9,27 +9,27 @@ Lista de Comunidades TI de Campinas
 
 ### Desenvolvimento de Software
 
-Badge | Link | Participar
+Logo | Link | Participar
 ----- | ---- | ----
-![Participantes](https://javadevbr.herokuapp.com/badge.svg) | [SouJava Campinas JUG](http://meetup.com/SouJavaCampinas/) | [Participar](https://facebook.com/CampinasJUG/) 
+![Participantes](https://soujavablog.files.wordpress.com/2012/12/sj-campinas_web.jpg?w=345&h=210) | [SouJava Campinas JUG](http://meetup.com/SouJavaCampinas/) | [Participar](https://facebook.com/CampinasJUG/) 
 
 
 ### Front-end
 
-Badge | Link | Participar
+Logo | Link | Participar
 ----- | ---- | ----
 ![Participantes](https://angularbrasil.herokuapp.com/badge.svg) | [Campinas Frontend](http://angularjsbrasil.com.br/) | [Participar](https://campinasfrontend.com.br)
 
 ### Back-end
 
-Badge | Link | Participar
+Logo | Link | Participar
 ----- | ---- | ----
 ![Participantes](https://electronbrasil.herokuapp.com/badge.svg) | [Electron Brasil](http://electronbrasil.github.io/) | [Participar](https://electronbrasil.herokuapp.com/)|
 
 
 ### Mobile
 
-Badge | Link | Participar
+Logo | Link | Participar
 ----- | ---- | ----
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | [Android Dev BR](http://www.androiddevbr.org) | [Participar](http://slack.androiddevbr.org)
 
