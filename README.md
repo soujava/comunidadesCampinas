@@ -1,4 +1,4 @@
-![Lista de Comunidades TI de Campinas](res/logoCampinas.png)
+![Lista de Comunidades TI de Campinas](res/logoCampinas.png =200x200)
 
 > Curadoria de comunidades de TI em Campinas para você participar.<br>
 
